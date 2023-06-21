@@ -1,0 +1,10 @@
+.article__main{
+    background-image: url(https://www.drlech.com/wp-content/uploads/2022/07/Otorrinolaringologo-especialista-de-la-nariz.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

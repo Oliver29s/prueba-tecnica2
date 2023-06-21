@@ -26,6 +26,8 @@ const Info = () => {
           <li>Otorrinolaringología Pediátrica</li>
         </ul>
       </div>
+      <h2 className="section__h2">Te mereces un alto nivel de atención por parte de un <span>Otorrinolaringólogo</span> de vanguardia, por lo que el <span>Dr. Jorge Treviño Garza</span> especialista en padecimiento de los oídos.
+</h2>
     </section>
   );
 };
