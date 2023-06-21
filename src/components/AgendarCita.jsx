@@ -1,4 +1,4 @@
-import './styleComponents/agendarCita.css'
+import './style-components/agendarCita.css'
 const AgendarCita = () => {
   return (
     <div>

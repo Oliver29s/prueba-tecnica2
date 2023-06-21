@@ -1,4 +1,4 @@
-import "./styleComponents/info.css";
+import "./style-components/info.css";
 const Info = () => {
   return (
     <section className="contain__principal">
